@@ -9,9 +9,10 @@
 [[Reading Materials]](materials/quine_twodogmas.pdf)
 
 3.Writing Group
-_This is where we write each other's paper 
-_through discussion and constructive criticism_
-[A Useful Guidline](http://www.jimpryor.net/teaching/guidelines/writing.html)
+
+- _This is where we write each other's paper_ 
+- _through discussion and constructive criticism_
+- [A Useful Guidline](http://www.jimpryor.net/teaching/guidelines/writing.html)
 
 4.Summer School
   * Activity 1
