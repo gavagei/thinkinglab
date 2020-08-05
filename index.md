@@ -6,6 +6,8 @@
 
 2.Reading Group
 
+[[Reading Materials]](materials/quine_twodogmas.pdf)
+
 3.Summer School
   * Activity 1
   * Activity 2
