@@ -1,6 +1,6 @@
-### _Think Lab: Where People Think Experimentally Together_
+##### _Think Lab: Where People Think Experimentally Together_
 
-Our Activities
+#### Our Activities
 1.Think Lab Meeting
 
 2.Reading Group
