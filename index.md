@@ -1,4 +1,4 @@
-##### _Think Lab: Where People Think Experimentally Together_
+##### _Think Lab: Let's Think Experimentally_
 
 #### Activities
 
@@ -8,11 +8,16 @@
 
 [[Reading Materials]](materials/quine_twodogmas.pdf)
 
-3.Summer School
+3.Writing Group
+_This is where we write each other's paper 
+_through discussion and constructive criticism_
+[A Useful Guidline](http://www.jimpryor.net/teaching/guidelines/writing.html)
+
+4.Summer School
   * Activity 1
   * Activity 2
 
-4.Think PopCulture
+5.Think PopCulture
   * Think Movies
   * Think Music
   * Think Games
