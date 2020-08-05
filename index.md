@@ -13,3 +13,6 @@
 4.Think PopCulture
   * Think Movies
   * Think Music
+
+![View In the Fog](/images/viewinthefog.bmp)
+Format: ![Alt Text](github.com)
