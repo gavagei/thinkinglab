@@ -12,7 +12,7 @@
 
 - _This is where we write each other's paper_ 
 - _through discussion and constructive criticism_
-- [A Useful Guidline](http://www.jimpryor.net/teaching/guidelines/writing.html)
+- [A Useful Guideline](http://www.jimpryor.net/teaching/guidelines/writing.html)
 
 4.Summer School
   * Activity 1
