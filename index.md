@@ -25,4 +25,4 @@
 
 ![View In the Fog](/images/viewinthefog.bmp)
 
-`python`print('hello world')` 
+``python print('hello world')``
