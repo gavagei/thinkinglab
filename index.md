@@ -24,3 +24,5 @@
   * Think Games
 
 ![View In the Fog](/images/viewinthefog.bmp)
+
+`python`print('hello world')` 
