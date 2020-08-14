@@ -1,5 +1,7 @@
 ##### _Think Lab: Let's Think Experimentally_
 
+![Heart ](/images/heart)
+
 #### Activities
 
 1.Think Lab Meeting
